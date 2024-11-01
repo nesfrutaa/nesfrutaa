@@ -39,7 +39,7 @@ I'm a **Computer Science** student specializing in **Software Engineering** at *
 ---
 
 ### 📫 Connect With Me!
-- **LinkedIn**: [Clarisse Alyssa M. Bajaro](https://www.linkedin.com/in/clarisse-bajaro-07aa422b2)
+- **LinkedIn**: [Clarisse Alyssa M. Bajaro](https://www.linkedin.com/in/clarisse-alyssa-bajaro-07aa422b2/)
 - **Facebook**: [alyssangkulit](https://www.facebook.com/alyssangkulit)
 - **Email**: [clarissebajaro@gmail.com](mailto:clarissebajaro@gmail.com)
 
